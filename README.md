@@ -75,7 +75,7 @@ This multi-agent approach is scalable, modular, and works for any dataset type.
 
 The UDA-Q Agent follows a multi-agent architecture coordinated by an orchestration layer:
 
-1. Inspector Agent
+# 1. Inspector Agent
 
 Scans the dataset
 
@@ -85,7 +85,7 @@ Creates a structured error report
 
 Computes initial data-quality metrics
 
-2. Planner Agent
+# 2. Planner Agent
 
 Reads the Inspector’s report
 
@@ -97,7 +97,7 @@ Prioritizes steps in a logical order
 
 Generates a reproducible plan for the Fixer
 
-3. Fixer Agent
+# 3. Fixer Agent
 
 Executes the repair plan step-by-step
 
@@ -119,7 +119,7 @@ Schema corrections
 
 Produces a cleaned dataset
 
-4. Validator Agent
+# 4. Validator Agent
 
 Re-evaluates the cleaned dataset
 
