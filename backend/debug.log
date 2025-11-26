@@ -1,0 +1,193 @@
+INFO 2025-11-21 15:09:27,693 autoreload Watching for file changes with StatReloader
+INFO 2025-11-21 15:09:27,786 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-21 15:10:35,106 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:10:35,248 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+INFO 2025-11-21 15:22:33,579 autoreload Watching for file changes with StatReloader
+ERROR 2025-11-21 15:24:01,333 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:24:01,339 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+ERROR 2025-11-21 15:24:10,431 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:24:10,432 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+ERROR 2025-11-21 15:24:11,448 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:24:11,449 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+ERROR 2025-11-21 15:24:12,332 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:24:12,349 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+INFO 2025-11-21 15:31:10,596 autoreload Watching for file changes with StatReloader
+WARNING 2025-11-21 15:31:20,328 log Not Found: /
+WARNING 2025-11-21 15:31:20,329 basehttp "GET / HTTP/1.1" 404 2473
+WARNING 2025-11-21 15:31:27,989 log Not Found: /
+WARNING 2025-11-21 15:31:27,991 basehttp "GET / HTTP/1.1" 404 2473
+ERROR 2025-11-21 15:31:54,263 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:31:54,266 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+ERROR 2025-11-21 15:32:14,682 log Internal Server Error: /api/datasets/
+ERROR 2025-11-21 15:32:14,683 basehttp "POST /api/datasets/ HTTP/1.1" 500 45
+INFO 2025-11-21 15:35:44,204 autoreload Watching for file changes with StatReloader
+WARNING 2025-11-21 15:35:55,452 log Not Found: /
+WARNING 2025-11-21 15:35:55,455 basehttp "GET / HTTP/1.1" 404 2473
+INFO 2025-11-21 15:36:06,586 basehttp "POST /api/datasets/ HTTP/1.1" 201 163
+INFO 2025-11-21 15:36:06,700 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-21 15:36:07,307 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-21 15:36:08,176 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:36:08,417 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:36:09,801 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:36:12,948 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 228
+INFO 2025-11-21 15:36:13,358 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 228
+INFO 2025-11-21 15:36:15,772 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:36:17,343 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:36:19,704 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:36:21,615 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 445
+INFO 2025-11-21 15:36:24,270 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 445
+INFO 2025-11-21 15:36:25,501 basehttp "GET /api/jobs/1/ HTTP/1.1" 200 868
+INFO 2025-11-21 15:38:33,022 basehttp "POST /api/datasets/ HTTP/1.1" 201 155
+INFO 2025-11-21 15:38:33,070 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-21 15:38:33,113 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:38:33,132 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:38:35,748 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:38:37,341 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 825
+INFO 2025-11-21 15:38:39,624 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 860
+INFO 2025-11-21 15:46:41,421 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 860
+INFO 2025-11-21 15:46:50,532 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 860
+INFO 2025-11-21 15:47:16,529 basehttp "GET /api/jobs/2/ HTTP/1.1" 200 860
+INFO 2025-11-21 15:48:32,406 basehttp "POST /api/datasets/ HTTP/1.1" 201 163
+INFO 2025-11-21 15:48:32,446 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-21 15:48:32,481 basehttp "GET /api/jobs/3/ HTTP/1.1" 200 151
+INFO 2025-11-21 15:48:32,497 basehttp "GET /api/jobs/3/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:48:34,845 basehttp "GET /api/jobs/3/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:48:36,548 basehttp "GET /api/jobs/3/ HTTP/1.1" 200 412
+INFO 2025-11-21 15:48:38,993 basehttp "GET /api/jobs/3/ HTTP/1.1" 200 868
+INFO 2025-11-21 15:48:49,184 basehttp "GET /media/cleaned/cleaned_Dataset_salary_2024_KlQLlaW.csv HTTP/1.1" 200 562136
+INFO 2025-11-21 15:50:11,277 basehttp "POST /api/datasets/ HTTP/1.1" 201 187
+INFO 2025-11-21 15:50:11,283 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-21 15:50:11,315 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-21 15:50:11,375 basehttp "GET /api/jobs/4/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:50:11,403 basehttp "GET /api/jobs/4/ HTTP/1.1" 200 188
+INFO 2025-11-21 15:50:13,653 basehttp "GET /api/jobs/4/ HTTP/1.1" 200 763
+INFO 2025-11-21 15:50:57,730 basehttp "GET /media/cleaned/cleaned_cleaned_Dataset_salary_2024_KlQLlaW.csv HTTP/1.1" 200 549590
+WARNING 2025-11-21 16:06:35,882 log Not Found: /
+WARNING 2025-11-21 16:06:35,914 basehttp "GET / HTTP/1.1" 404 2473
+WARNING 2025-11-21 16:06:38,327 log Not Found: /favicon.ico
+WARNING 2025-11-21 16:06:38,337 basehttp "GET /favicon.ico HTTP/1.1" 404 2524
+WARNING 2025-11-21 16:06:41,970 log Not Found: /
+WARNING 2025-11-21 16:06:42,117 basehttp "GET / HTTP/1.1" 404 2473
+INFO 2025-11-22 14:48:26,449 autoreload Watching for file changes with StatReloader
+INFO 2025-11-22 14:59:04,930 basehttp "POST /api/datasets/ HTTP/1.1" 201 167
+INFO 2025-11-22 14:59:04,936 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-22 14:59:04,989 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-22 14:59:05,035 basehttp "GET /api/jobs/5/ HTTP/1.1" 200 151
+INFO 2025-11-22 14:59:05,059 basehttp "GET /api/jobs/5/ HTTP/1.1" 200 188
+INFO 2025-11-22 14:59:07,181 basehttp "GET /api/jobs/5/ HTTP/1.1" 200 647
+INFO 2025-11-22 15:00:01,142 basehttp "POST /api/datasets/ HTTP/1.1" 201 155
+INFO 2025-11-22 15:00:01,195 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-22 15:00:01,257 basehttp "GET /api/jobs/6/ HTTP/1.1" 200 188
+INFO 2025-11-22 15:00:01,278 basehttp "GET /api/jobs/6/ HTTP/1.1" 200 188
+INFO 2025-11-22 15:00:03,286 basehttp "GET /api/jobs/6/ HTTP/1.1" 200 412
+INFO 2025-11-22 15:00:05,599 basehttp "GET /api/jobs/6/ HTTP/1.1" 200 860
+INFO 2025-11-22 15:10:37,368 basehttp "POST /api/datasets/ HTTP/1.1" 201 127
+INFO 2025-11-22 15:10:37,452 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-22 15:10:37,503 basehttp "GET /api/jobs/7/ HTTP/1.1" 200 151
+INFO 2025-11-22 15:10:37,743 basehttp "GET /api/jobs/7/ HTTP/1.1" 200 188
+INFO 2025-11-22 15:10:39,492 basehttp "GET /api/jobs/7/ HTTP/1.1" 200 426
+INFO 2025-11-22 15:10:41,484 basehttp "GET /api/jobs/7/ HTTP/1.1" 200 426
+INFO 2025-11-22 15:10:43,482 basehttp "GET /api/jobs/7/ HTTP/1.1" 200 854
+INFO 2025-11-24 17:50:16,502 autoreload Watching for file changes with StatReloader
+INFO 2025-11-24 17:51:31,868 autoreload Watching for file changes with StatReloader
+INFO 2025-11-24 17:52:59,070 basehttp "POST /api/datasets/ HTTP/1.1" 201 153
+INFO 2025-11-24 17:52:59,075 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-24 17:52:59,103 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-24 17:52:59,147 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 188
+INFO 2025-11-24 17:52:59,161 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 188
+INFO 2025-11-24 17:53:01,133 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:03,125 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:05,134 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:07,132 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:09,137 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:11,145 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:13,134 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:15,141 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:17,127 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:19,132 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:21,124 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:23,130 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:25,131 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:27,128 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:29,150 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 439
+INFO 2025-11-24 17:53:31,141 basehttp "GET /api/jobs/8/ HTTP/1.1" 200 895
+INFO 2025-11-24 17:54:10,514 basehttp "GET /media/cleaned/cleaned_netflix_titles.csv.csv HTTP/1.1" 200 831656
+INFO 2025-11-24 17:54:50,340 basehttp "POST /api/datasets/ HTTP/1.1" 201 169
+INFO 2025-11-24 17:54:50,372 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 151
+INFO 2025-11-24 17:54:50,423 basehttp "GET /api/jobs/9/ HTTP/1.1" 200 188
+INFO 2025-11-24 17:54:50,437 basehttp "GET /api/jobs/9/ HTTP/1.1" 200 188
+INFO 2025-11-24 17:54:52,393 basehttp "GET /api/jobs/9/ HTTP/1.1" 200 754
+INFO 2025-11-24 17:56:47,647 basehttp "POST /api/datasets/ HTTP/1.1" 201 178
+INFO 2025-11-24 17:56:47,696 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-24 17:56:47,746 basehttp "GET /api/jobs/10/ HTTP/1.1" 200 190
+INFO 2025-11-24 17:56:47,762 basehttp "GET /api/jobs/10/ HTTP/1.1" 200 190
+INFO 2025-11-24 17:56:49,717 basehttp "GET /api/jobs/10/ HTTP/1.1" 200 766
+INFO 2025-11-24 20:07:06,342 autoreload Watching for file changes with StatReloader
+INFO 2025-11-24 20:08:00,195 autoreload Watching for file changes with StatReloader
+INFO 2025-11-24 20:09:07,223 basehttp "POST /api/datasets/ HTTP/1.1" 201 162
+INFO 2025-11-24 20:09:07,229 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-24 20:09:07,273 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-24 20:09:07,351 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 190
+INFO 2025-11-24 20:09:07,374 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 190
+INFO 2025-11-24 20:09:09,349 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:11,329 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:13,326 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:15,329 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:17,331 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:19,338 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:21,322 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:23,325 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:25,321 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:27,343 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:29,329 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:31,334 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:33,323 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:35,326 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:37,345 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:39,337 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:41,316 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:43,325 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:45,331 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:47,323 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:49,342 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:51,324 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:53,336 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:55,327 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:57,333 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:09:59,340 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:01,321 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:03,336 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:05,342 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:07,354 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:09,335 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:11,327 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:13,329 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:15,344 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:17,339 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 441
+INFO 2025-11-24 20:10:19,326 basehttp "GET /api/jobs/11/ HTTP/1.1" 200 907
+INFO 2025-11-24 20:10:31,618 basehttp "GET /media/cleaned/cleaned_netflix_titles_wA8GBZU.csv.csv HTTP/1.1" 200 831656
+INFO 2025-11-24 20:11:36,000 basehttp "POST /api/datasets/ HTTP/1.1" 201 186
+INFO 2025-11-24 20:11:36,125 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-24 20:11:36,200 basehttp "GET /api/jobs/12/ HTTP/1.1" 200 153
+INFO 2025-11-24 20:11:36,220 basehttp "GET /api/jobs/12/ HTTP/1.1" 200 190
+INFO 2025-11-24 20:11:38,156 basehttp "GET /api/jobs/12/ HTTP/1.1" 200 766
+INFO 2025-11-25 13:34:04,829 autoreload Watching for file changes with StatReloader
+INFO 2025-11-25 13:34:56,177 basehttp "POST /api/datasets/ HTTP/1.1" 201 176
+INFO 2025-11-25 13:34:56,179 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-25 13:34:56,198 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-25 13:34:56,245 basehttp "GET /api/jobs/13/ HTTP/1.1" 200 153
+INFO 2025-11-25 13:34:56,264 basehttp "GET /api/jobs/13/ HTTP/1.1" 200 190
+INFO 2025-11-25 13:34:58,231 basehttp "GET /api/jobs/13/ HTTP/1.1" 200 659
+INFO 2025-11-25 13:35:22,207 basehttp "POST /api/datasets/ HTTP/1.1" 201 136
+INFO 2025-11-25 13:35:22,238 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-25 13:35:22,281 basehttp "GET /api/jobs/14/ HTTP/1.1" 200 153
+INFO 2025-11-25 13:35:22,291 basehttp "GET /api/jobs/14/ HTTP/1.1" 200 190
+INFO 2025-11-25 13:35:24,261 basehttp "GET /api/jobs/14/ HTTP/1.1" 200 866
+INFO 2025-11-25 13:39:41,495 autoreload Watching for file changes with StatReloader
+INFO 2025-11-25 13:40:15,797 basehttp "POST /api/datasets/ HTTP/1.1" 201 136
+INFO 2025-11-25 13:40:15,800 basehttp "OPTIONS /api/jobs/start_job/ HTTP/1.1" 200 0
+INFO 2025-11-25 13:40:15,818 basehttp "POST /api/jobs/start_job/ HTTP/1.1" 201 153
+INFO 2025-11-25 13:40:15,854 basehttp "GET /api/jobs/15/ HTTP/1.1" 200 153
+INFO 2025-11-25 13:40:15,887 basehttp "GET /api/jobs/15/ HTTP/1.1" 200 190
+INFO 2025-11-25 13:40:17,852 basehttp "GET /api/jobs/15/ HTTP/1.1" 200 866
+INFO 2025-11-25 13:40:36,823 basehttp "GET /media/cleaned/cleaned_races_iKckHuc.csv HTTP/1.1" 200 66133
